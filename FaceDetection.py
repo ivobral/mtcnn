@@ -4,7 +4,7 @@ import imutils
 import math
 import numpy as np
 
-filename = "Photos/test2.jpg"
+filename = "Photos/external-content.duckduckgo111.com.jpg"
 image = plt.imread(filename)
 
 detector = mtcnn.MTCNN()
